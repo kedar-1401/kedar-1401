@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-stack Developer at Advista (Startup)<br>📊 Incoming Summer Analyst at Morgan Stanley India<br>🤝 Looking for help with Web Dev Backend for teamwork<br>🌱 Currently learning AWS Cloud and DevOps<br>🎓 Pre-final Year Undergrad at National Institute of Technology Karnataka (NITK), Surathkal, India<br>
+👨‍💻 Full-stack Developer at Advista (Startup)<br>📊 Incoming Summer Analyst at Morgan Stanley India<br> 🔬 Ex-Research Intern at Dream Lab, IISc Bangalore <br> 🤝 Looking for help with Web Dev Backend for teamwork<br>🌱 Currently learning AWS Cloud and DevOps<br>🎓 Pre-final Year Undergrad at National Institute of Technology Karnataka (NITK), Surathkal, India<br>
 
 
 ## 🌐 Socials:
